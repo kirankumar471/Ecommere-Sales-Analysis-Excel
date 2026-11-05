@@ -110,3 +110,88 @@ Successfully cleaned 4,310 raw records and retained 4,200 unique retail orders. 
 ---
 **Project Category:** Data Analytics | Data Cleaning  
 **Role:** Data Analyst – Fresher Portfolio Project
+# 📊 ApexLark – Retail Sales Dashboard | Day 04
+
+## 📌 Project Overview
+This project focuses on analyzing retail sales data using Microsoft Excel to generate meaningful business insights. An interactive Retail Sales Dashboard was developed to track sales performance, profitability, customer behavior, regional performance, and product categories.
+
+**Dataset Details:**
+- Total Orders: 4,200
+- Total Customers: 4,112
+- Time Period: January 2020 – December 2024
+- Data Source: Cleaned Retail Sales Dataset
+- Currency: Indian Rupees (₹)
+
+## 🎯 Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|---|---:|
+| Total Sales | ₹232.7M |
+| Total Profit | ₹43.1M |
+| Total Orders | 4,200 |
+| Total Customers | 4,112 |
+| Profit Margin | 18.5% |
+
+## 🔍 Key Business Insights
+
+1. **Regional Performance:** South region generated the highest sales of ₹53.1M (22.8%), while Central recorded the lowest sales of ₹38.4M.
+
+2. **Category Performance:** Electronics contributed ₹138.4M, representing 59% of total sales. Electronics and Furniture together generated 84% of revenue.
+
+3. **Monthly Sales Trend:** July was the strongest calendar month, generating ₹26.3M. August 2024 recorded the highest individual monthly sales of ₹7.4M.
+
+4. **Customer Analysis:** Meera Kapoor was the top customer with ₹1.2M in purchases. The top 10 customers contributed only 4.2% of total sales.
+
+5. **Sales Growth:** Sales increased from ₹38.4M in 2020 to ₹50.7M in 2024, representing approximately 7.2% CAGR.
+
+6. **Profitability Analysis:** Beauty achieved a 45% profit margin and Books achieved 40%, compared with Electronics at 12% and Groceries at 8%.
+
+7. **Returns and Cancellations:** Returned and cancelled orders accounted for 20.4% of total sales value, indicating an opportunity to reduce revenue leakage.
+
+## 💡 Business Recommendations
+
+- Review discount strategies and supplier pricing to improve Electronics profitability.
+- Increase inventory and marketing campaigns before the May–August seasonal peak.
+- Introduce festive offers and loyalty rewards during the October–January low season.
+- Improve product descriptions and sizing information to reduce returns.
+- Strengthen regional marketing strategies in the Central region.
+- Promote high-margin categories such as Beauty, Books, and Clothing.
+
+## 📈 Dashboard Features
+
+- Interactive filters: Region, Category, Year, and Month.
+- KPI cards for Sales, Profit, Orders, and Customers.
+- Sales by Region chart.
+- Monthly Sales Trend chart.
+- Profit by Category chart.
+- Category Share pie chart.
+- Top 10 Customers analysis.
+- Top 10 Products analysis.
+
+## 🛠️ Tools & Skills Used
+
+- Microsoft Excel
+- Pivot Tables
+- Excel Charts
+- Data Analysis
+- Data Visualization
+- Interactive Dashboard Design
+- Business Intelligence
+- Business Insights Generation
+
+## 📚 Key Learnings
+
+- Understanding business KPIs.
+- Analyzing regional and category-wise performance.
+- Identifying seasonal sales patterns.
+- Evaluating profitability and revenue leakage.
+- Converting raw data into actionable business recommendations.
+- Building interactive Excel dashboards.
+
+## 🏁 Project Outcome
+
+Successfully developed an interactive retail sales dashboard and identified important business opportunities related to sales growth, profitability improvement, seasonal demand, and customer retention.
+
+**Project:** ApexLark Data Analytics Internship Program – Day 04
+
+**Author:** Kiran Kumar
