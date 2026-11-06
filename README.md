@@ -195,3 +195,106 @@ Successfully developed an interactive retail sales dashboard and identified impo
 **Project:** ApexLark Data Analytics Internship Program – Day 04
 
 **Author:** Kiran Kumar
+# 📊 Dynamic Business Performance Analysis | ApexLark – Day 05
+
+## 📌 Project Overview
+This project focuses on analyzing retail business performance using a dynamic Excel dashboard. The analysis covers sales, profit, orders, customers, regional performance, product categories, and customer behavior from **January 2020 to December 2024**.
+
+The main objective is to identify business trends, understand revenue leakage, evaluate profitability, and provide actionable recommendations to improve business performance.
+
+## 🎯 Project Objectives
+- Analyze overall sales and profit performance.
+- Identify the highest-performing regions.
+- Evaluate product category sales and profitability.
+- Identify top 10 customers and products.
+- Analyze cancelled and returned orders.
+- Discover business problems and provide data-driven recommendations.
+- Build a dynamic, formula-driven Excel dashboard.
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Excel Formulas
+- XLOOKUP / INDEX-MATCH
+- KPI Analysis
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI | Result |
+|---|---:|
+| Total Sales | ₹232.65M |
+| Total Profit | ₹43.05M |
+| Total Orders | 4,200 |
+| Total Customers | 4,112 |
+| Profit Margin | 18.5% |
+| Average Order Value | ₹55,393 |
+| Revenue at Risk | ₹47.45M |
+
+## 🔍 Key Business Insights
+
+### 1. Regional Sales Performance
+- South region generated the highest sales of ₹52.97M.
+- West region contributed ₹48.47M.
+- Central region recorded the lowest sales of ₹38.31M.
+- Central achieved the highest profit margin of 19.3%.
+
+### 2. Product Category Analysis
+- Electronics generated the highest sales of ₹138.37M.
+- Electronics contributed ₹16.67M in profit.
+- Furniture generated ₹16.01M profit with a 28.2% margin.
+- Beauty achieved a 45.1% profit margin.
+- Groceries recorded the lowest margin at 8%.
+
+### 3. Customer Analysis
+- Meera Kapoor was the highest-selling customer, contributing ₹1.18M.
+- The top 10 customers contributed only 4.2% of total sales.
+- Customer ID inconsistencies make repeat-purchase analysis difficult.
+
+### 4. Business Problems Identified
+- 14.6% of orders were returned.
+- 8.2% of orders were cancelled.
+- ₹47.45M in revenue was at risk.
+- High dependency on Electronics, contributing 59.5% of total sales.
+- Groceries generated a low profit margin of 8%.
+- Flat discounting of approximately 20% across categories.
+- Customer data quality and satisfaction rating issues.
+
+## 💡 Business Recommendations
+1. Reduce product returns and cancellations, especially in Electronics.
+2. Improve Electronics profit margins through supplier cost optimization.
+3. Focus on high-margin categories such as Furniture, Sports, Beauty, and Clothing.
+4. Replace flat discounts with targeted promotional strategies.
+5. Increase sales in the Central region through regional campaigns.
+6. Improve customer data accuracy and satisfaction feedback collection.
+7. Prioritize high-value orders of ₹50,000 and above.
+
+## 📊 Dashboard Features
+- Dynamic year selection.
+- Automatic KPI updates.
+- Regional sales and profit comparison.
+- Product category performance analysis.
+- Top 10 customer analysis.
+- Top 10 product analysis.
+- Revenue-at-risk monitoring.
+- Formula-driven reporting.
+
+## 📚 What I Learned
+- How to transform cleaned business data into meaningful insights.
+- How to build dynamic Excel dashboards.
+- How to use Excel lookup functions.
+- How to analyze sales, revenue, profit, and margins.
+- How to identify business problems using data.
+- How to communicate findings through business reports.
+- How to provide actionable recommendations based on data.
+
+## 🚀 Conclusion
+This project demonstrates how Excel-based business analytics can help organizations understand sales performance, monitor profitability, identify revenue leakage, and make better business decisions.
+
+The analysis highlights opportunities to reduce returns, improve category profitability, strengthen regional performance, and enhance customer data quality.
+
+**Project:** ApexLark Data Analytics Internship – Task Day 05  
+**Report:** Dynamic Business Performance Analysis  
+**Period:** January 2020 – December 2024
