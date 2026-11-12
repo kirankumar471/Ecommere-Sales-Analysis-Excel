@@ -298,3 +298,24 @@ The analysis highlights opportunities to reduce returns, improve category profit
 **Project:** ApexLark Data Analytics Internship – Task Day 05  
 **Report:** Dynamic Business Performance Analysis  
 **Period:** January 2020 – December 2024
+
+ApexLark – Day 06: Advanced Excel Dashboard with Interactive Business Analytics
+Executive sales & profit dashboard for a multinational retail company, built in Microsoft Excel from the supplied order dataset (2020–2024, 4,192 cleaned orders).
+Files
+File
+Purpose
+ApexLark_Sales_Dashboard.xlsx
+Interactive Excel dashboard
+ApexLark_Executive_Business_Report.pdf
+One-page executive report
+cleaned_sales_data.csv
+Cleaned dataset (same data as the Sales_Data sheet)
+clean_data.py
+Script that produced the cleaned data from the raw CSV
+Workbook sheets
+Dashboard – 7 KPI cards, 6 charts, 5 filters (Region, Product Category, Customer Segment, Year, Month).
+Business_Analysis – answers to the five management questions.
+Analysis_Tables – region / category / segment / month / product tables (all formulas).
+Calc_Engine – formula block that feeds the charts and KPIs.
+Sales_Data – cleaned data as an Excel Table (tblSales).
+Cleaning_Log – every cleaning step and assumption.
