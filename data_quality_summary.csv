@@ -1,0 +1,16 @@
+Issue,Column,Records Affected,Action Taken
+Fully blank rows,all columns,30,Dropped
+Exact duplicate rows,all columns,80,Dropped (kept first)
+"Mixed date formats (YYYY-MM-DD / DD/MM/YYYY / 'Month DD, YYYY')",order_date,267,Parsed to one datetime type
+"Inconsistent gender labels (m, F, MALE, female ...)",gender,431,Mapped to Male/Female/Other
+"Inconsistent order_status case (delivered, shipped ...)",order_status,152,Title-cased
+return_flag stored as object dtype (whole column),return_flag,4200,"Converted to bool, then dropped (duplicates order_status)"
+"Invalid age (<1 or >100, e.g. -7, 999)",age,25,Set NaN -> median
+"Invalid quantity (-1, 0, 999)",quantity,26,999 rows dropped (inflated sales); others -> category median
+"Invalid days_to_ship (negative or >30, e.g. 45, 100)",days_to_ship,11,Set NaN -> median
+Negative shipping_cost,shipping_cost,2,Set NaN -> median
+Missing quantity,quantity,108,Category median
+Missing discount_pct,discount_pct,135,Category median
+Missing age,age,125,Median
+Missing days_to_ship,days_to_ship,97,Median
+Missing customer_satisfaction (survey non-response),customer_satisfaction,346,Left as NaN (not fabricated)
